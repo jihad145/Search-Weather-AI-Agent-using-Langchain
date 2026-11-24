@@ -1,0 +1,18 @@
+# Virtual Environment
+langagent/
+venv/
+.venv/
+
+# Environment Variables
+.env
+research/.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/

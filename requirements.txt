@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-ollama
+langchain-classic
+langgraph
+tavily-python
+python-dotenv
+requests
+streamlit
